@@ -22,17 +22,17 @@ description: Portfolio
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - R-Emote: "http://deanattali.com/beautiful-jekyll/"
-    - MapWorks: "http://www.markdowntutorial.com/"
-    - Trade My Coin: "http://www.markdowntutorial.com/"
-    - Reddit Moves Market: "http://www.markdowntutorial.com/"
-    - Backtrack Esc: "http://www.markdowntutorial.com/"
-    - Sim.h: "http://www.markdowntutorial.com/"
+    - R-Emote: "https://github.com/ShahzaibP"
+    - MapWorks: "https://github.com/ShahzaibP"
+    - Trade My Coin: "https://github.com/ShahzaibP"
+    - Reddit Moves Market: "https://github.com/ShahzaibP"
+    - Backtrack Esc: "https://github.com/ShahzaibP"
+    - Sim.h: "https://github.com/ShahzaibP"
   GitHub: "https://github.com/ShahzaibP"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/git.img"
+#avatar: "/img/git.img"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
