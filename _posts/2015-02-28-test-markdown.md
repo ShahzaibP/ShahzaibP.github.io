@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Welcome
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+subtitle: Humble Beginnings
+gh-repo: ShahzaibP
 gh-badge:
   - star
   - fork
@@ -21,4 +21,3 @@ My long time interest lies in applying Mathematics and Statistics to bring about
 And this site is an outlet to showcase the strides I have made in doing so.
 
 Follow my GitHub at [Shahzaib Paracha](https://github.com/ShahzaibP).
-
