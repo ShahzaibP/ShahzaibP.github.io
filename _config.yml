@@ -22,8 +22,12 @@ description: Portfolio
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - R-Emote: "http://deanattali.com/beautiful-jekyll/"
+    - MapWorks: "http://www.markdowntutorial.com/"
+    - Trade My Coin: "http://www.markdowntutorial.com/"
+    - Reddit Moves Market: "http://www.markdowntutorial.com/"
+    - Backtrack Esc: "http://www.markdowntutorial.com/"
+    - Sim.h: "http://www.markdowntutorial.com/"
   GitHub: "https://github.com/ShahzaibP"
 
 # Image to show in the navigation bar - image must be a square (width = height)
