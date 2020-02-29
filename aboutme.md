@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Matching perspectives
+published: true
 ---
+## Hello, I am **Shahzaib Paracha!**
 
-My name is Inigo Montoya. I have the following qualities:
+I am currently pursuing a Honours Degree as a Bachelor of Science candidate, studying Mathematics and Computer Science at the University of Manitoba.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My long time interest lies in applying Mathematics and Statistics to bring about realistic inferences to the forefront, and programming has given me an outlet to fill that void.
 
-What else do you need?
+And this site is an outlet to showcase the strides I have made in doing so.
 
-### my history
+Follow my GitHub [here](https://github.com/ShahzaibP).
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
