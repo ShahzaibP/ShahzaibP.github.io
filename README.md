@@ -1,4 +1,4 @@
-## ShahzaibP.github.io / http:/shahzaibparacha.me
+## ShahzaibP.github.io / <http://shahzaibparacha.me/>
 
 This is the repository for my personal portfolio. The site can be reached [here](shahzaibparacha.me).
 
