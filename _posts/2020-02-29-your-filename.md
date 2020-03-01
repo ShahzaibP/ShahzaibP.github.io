@@ -2,12 +2,13 @@
 layout: post
 published: true
 title: R-Emote
-subtitle: One for the people
+subtitle: One for the people - live long and prosper
 date: '2019-12-25'
 gh-repo: ShahzaibP
 gh-badge:
   - follow
 comments: true
+image: /img/34.jpg
 ---
 Greetings!
 
