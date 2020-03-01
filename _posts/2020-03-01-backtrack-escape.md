@@ -7,7 +7,7 @@ gh-badge:
   - follow
 comments: true
 date: '2018-06-10'
-subtitle: Side with Jerry for a change
+subtitle: Siding with Jerry for a change
 image: /img/df_maze.png
 ---
 hey again!
