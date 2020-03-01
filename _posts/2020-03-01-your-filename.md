@@ -6,6 +6,7 @@ gh-repo: ShahzaibP
 gh-badge:
   - follow
 comments: true
+permalink: /Event-Based-Simulation/
 date: 2020-2-25
 subtitle: Object Orientation
 image: /img/simh.jpg
