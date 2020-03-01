@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Lets allign perspectives
+title: About Me
+subtitle: Let's allign perspectives
 published: true
 ---
 ## Hello, I am Shahzaib Paracha!
