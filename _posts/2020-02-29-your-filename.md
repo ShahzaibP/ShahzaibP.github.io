@@ -20,4 +20,8 @@ I capture my own hand getures via my webcam, capture 1500 images per gesture for
 
 The use cases are endless. It can help technologically-challenged seniors, people who dont have the ability to speak or to do so properly for the machine to undertand, people with accents that are not supported by the virtual asistants, people facing ome sort of disability, people with leser dexterity and people who dont have the ability to maneuver smart appliances otherwise.
 
+
+
+P.S. The image you see is what the computer sees, just in numbers.
+
 Find my work [here](https://github.com/ShahzaibP/R-Emote).
