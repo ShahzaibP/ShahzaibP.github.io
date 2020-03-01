@@ -12,4 +12,6 @@ My long time interest lies in applying Mathematics and Statistics to bring about
 
 And this site is an outlet to showcase the strides I have made in doing so.
 
+You may click on the Projects tab on the top right to look at some of my work.
+
 Follow my GitHub [here](https://github.com/ShahzaibP).
