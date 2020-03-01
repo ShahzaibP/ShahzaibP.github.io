@@ -2,6 +2,7 @@
 layout: post
 title: Welcome
 subtitle: Humble Beginnings
+permalink: /Welcome/
 gh-repo: ShahzaibP
 gh-badge:
   - follow
