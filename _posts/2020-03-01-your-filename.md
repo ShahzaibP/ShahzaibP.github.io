@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ''
+title: Event-Based Simulation
 ---
 This is one of my most recent in-class projects. It is a real-world example of a Simulation and is a very actual example of how object-oriented programming incorporates with real-world cases.
 
