@@ -2,6 +2,12 @@
 layout: post
 published: false
 title: Backtrack Escape
+gh-repo: ShahzaibP
+gh-badge:
+  - follow
+comments: true
+date: '2018-06-10'
+subtitle: Side with Jerry for a change
 ---
 hey again!
 
