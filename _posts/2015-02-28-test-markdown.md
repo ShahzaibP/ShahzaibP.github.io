@@ -4,11 +4,8 @@ title: Welcome
 subtitle: Humble Beginnings
 gh-repo: ShahzaibP
 gh-badge:
-  - star
-  - fork
   - follow
-tags:
-  - test
+tags: null
 comments: true
 published: true
 ---
