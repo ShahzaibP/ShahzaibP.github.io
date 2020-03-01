@@ -4,8 +4,7 @@ published: true
 title: My first dabble
 subtitle: is ml glorified stats?
 date: '2018-06-21'
-image: >-
-  https://www.google.com/url?sa=i&url=http%3A%2F%2Fqingkaikong.blogspot.com%2F2017%2F04%2Fmachine-learning-10-funny-pictures.html&psig=AOvVaw36X7HMmP-5Lf4misH5BiLt&ust=1583120774866000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjh5M2u-OcCFQAAAAAdAAAAABAD
+image: /img/figure_6.jpg
 gh-repo: ShahzaibP
 gh-badge:
   - follow
