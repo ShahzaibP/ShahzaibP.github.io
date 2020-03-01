@@ -22,7 +22,7 @@ description: My work
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - R-Emote: "https://github.com/ShahzaibP"
+    - R-Emote: "https://github.com/ShahzaibP/R-Emote"
     - MapWorks: "https://github.com/ShahzaibP/MapWorks"
     - Trade My Coin: "https://github.com/ShahzaibP"
     - Reddit Moves Market: "https://github.com/ShahzaibP"
