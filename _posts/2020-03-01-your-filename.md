@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Event-Based Simulation
 gh-repo: ShahzaibP
 gh-badge:
@@ -8,6 +8,7 @@ gh-badge:
 comments: true
 date: 2020-2-25
 subtitle: Object Orientation
+image: /img/simh.jpg
 ---
 This is one of my most recent in-class projects. It is a real-world example of a Simulation and is a very actual example of how object-oriented programming incorporates with real-world cases.
 
