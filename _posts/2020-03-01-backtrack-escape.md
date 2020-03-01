@@ -6,6 +6,7 @@ gh-repo: ShahzaibP
 gh-badge:
   - follow
 comments: true
+permalink: /Backtrack-Escape/
 date: '2018-06-10'
 subtitle: Siding with Jerry for a change
 image: /img/df_maze.png
