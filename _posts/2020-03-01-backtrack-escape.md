@@ -18,4 +18,4 @@ Here we write a baic AI that uses a Stack DS to help a mouse escape a maze, and 
 
 This was also my very first work in C, and needless to say I loved every bit of it.
 
-You can take a look at the entire code [here.](https://github.com/ShahzaibP/backtracking_escape).
+You can take a look at the entire code [here](https://github.com/ShahzaibP/backtracking_escape).
