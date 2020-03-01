@@ -14,6 +14,6 @@ Free time calls to read non-fiction, watch UFC on Saturday nights, drive out to 
 
 I grew up in Karachi, Pakistan and moved to Winnipeg, Canada during my teens. Been here since.
 
-If you feel like you want to watch my work, you may click on the Projects tab on the top right to do so.
+If you feel like you want to see my work, you may click on the Projects tab on the top right and take a look.
 
 Follow my GitHub [here](https://github.com/ShahzaibP).
