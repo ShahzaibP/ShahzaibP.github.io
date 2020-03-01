@@ -1,11 +1,11 @@
 ---
 layout: post
 published: false
-title: ''
+title: R-Emote
 ---
 Greetings!
 
-A time progresses, I learn and apply more of my knowledge in my work and this is my latest piece of work.
+A time progresses, I learn and apply more of my knowledge in my work and this is my latest piece of work. As the name suggests, what I have here is a simply a remote.
 
 Here I use Machine Learning jn a somewhat practical setting. I use a convolutional neural network to detect hand gestures in order to control smart appliances around me.
 
