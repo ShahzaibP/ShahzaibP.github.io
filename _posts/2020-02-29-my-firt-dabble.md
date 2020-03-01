@@ -3,6 +3,7 @@ layout: post
 published: true
 title: My first dabble
 subtitle: is ml glorified stats?
+permalink: /My-first-dabble/
 date: '2018-06-21'
 image: /img/figure_6.jpg
 gh-repo: ShahzaibP
