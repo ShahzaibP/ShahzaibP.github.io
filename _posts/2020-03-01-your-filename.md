@@ -10,6 +10,8 @@ date: 2020-2-25
 subtitle: Object Orientation
 image: /img/simh.jpg
 ---
+hey again!
+
 This is one of my most recent in-class projects. It is a real-world example of a Simulation and is a very actual example of how object-oriented programming incorporates with real-world cases.
 
 It reads in incoming data, can be thorugh a file or otherwise, and process events as they would happen in time.
