@@ -25,10 +25,10 @@ navbar-links:
   Projects:
     - R-Emote: "https://github.com/ShahzaibP/R-Emote"
     - MapWorks: "https://github.com/ShahzaibP/MapWorks"
-    - Trade My Coin: "https://github.com/ShahzaibP/Trade-My-Coin"
+    - Sim.h: "https://github.com/ShahzaibP/Sim.h"
     - Reddit Moves Market: "https://github.com/ShahzaibP/Reddit-Moves-Market"
     - Backtrack Esc: "https://github.com/ShahzaibP/backtracking_escape"
-    - Sim.h: "https://github.com/ShahzaibP/Sim.h"
+    - Trade My Coin: "https://github.com/ShahzaibP/Trade-My-Coin"
   GitHub: "https://github.com/ShahzaibP"
 
 # Image to show in the navigation bar - image must be a square (width = height)
