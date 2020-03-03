@@ -13,7 +13,7 @@ image: /img/simh.jpg
 ---
 hey again!
 
-This is one of my most recent in-class projects. It is a real-world example of a Simulation and is a very actual example of how object-oriented programming incorporates real-world cases.
+This is one of my most recent projects. It is a real-world example of a Simulation and is a very actual example of how object-oriented programming incorporates real-world cases.
 
 It reads in incoming data, can be through a file or otherwise, and process events as they would happen in time.
 
@@ -23,6 +23,6 @@ This assembly line consists of two stations (the main station and the finishing 
 
 This can be extended to other purposes too because the event-driven algorithms will all follow a similar pattern.
 
-This was written in C++ and is a very good fit for this purpose.
+This was written in C++ and is undoubtedly a very good fit for this purpose.
 
 You can take a look at the entire code [here](https://github.com/ShahzaibP/sim.h).
