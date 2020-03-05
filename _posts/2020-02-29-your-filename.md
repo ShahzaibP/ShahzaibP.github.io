@@ -13,7 +13,7 @@ image: /img/34.jpg
 ---
 Greetings!
 
-A time progresses, I learn and apply more of my knowledge in my work and this is my latest piece of work. As the name suggests, what I have here is simply a remote.
+A time progresses, I learn and apply more of my knowledge in my work and this is my latest piece of work. As the name suggests, what I have here is simply a remote(it's so much more).
 
 Here I use Machine Learning in a somewhat practical setting. I use a convolutional neural network to detect hand gestures to control smart appliances around me.
 
