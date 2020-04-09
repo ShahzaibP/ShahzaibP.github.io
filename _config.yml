@@ -4,7 +4,7 @@
 title: Shahzaib Paracha
 
 # Short description of your site
-description: Work
+#description: Welcome!
 
 permalink: /:categories/:title:output_ext
 # --- Local development options ---
