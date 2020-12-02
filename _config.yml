@@ -23,13 +23,13 @@ permalink: /:categories/:title:output_ext
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - R-Emote: "https://github.com/ShahzaibP/R-Emote"
-    - MapWorks: "https://github.com/ShahzaibP/MapWorks"
-    - Sim.h: "https://github.com/ShahzaibP/Sim.h"
-    - Reddit Moves Market: "https://github.com/ShahzaibP/Reddit-Moves-Market"
-    - Backtrack Esc: "https://github.com/ShahzaibP/backtracking_escape"
+    - R-Emote: "https://github.com/ShahzaibParacha/R-Emote"
+    - MapWorks: "https://github.com/ShahzaibParacha/MapWorks"
+    - Sim.h: "https://github.com/ShahzaibParacha/Sim.h"
+    - Reddit Moves Market: "https://github.com/ShahzaibParacha/Reddit-Moves-Market"
+    - Backtrack Esc: "https://github.com/ShahzaibParacha/backtracking_escape"
     #- Trade My Coin: "https://github.com/ShahzaibP/Trade-My-Coin"
-  GitHub: "https://github.com/ShahzaibP"
+  GitHub: "https://github.com/ShahzaibParacha"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
