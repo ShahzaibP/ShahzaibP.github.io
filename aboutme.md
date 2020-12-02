@@ -16,4 +16,4 @@ I grew up in Karachi, Pakistan and moved to Winnipeg, Canada during my teens. Be
 
 If you feel like you want to see my work, you may click on the Projects tab on the top right and take a look.
 
-Follow my GitHub [here](https://github.com/ShahzaibP).
+Follow my GitHub [here](https://github.com/ShahzaibParacha).
